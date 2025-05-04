@@ -399,6 +399,9 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* fifth section footer */
+
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
@@ -467,13 +470,11 @@ p {
 .footer-form-email {
   position: absolute;
   margin-left: 700px;
-
   width: 453px;
   height: 80px;
 }
 
 .footer-text-subscibe {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
